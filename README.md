@@ -11,5 +11,3 @@ If you have any questions or suggestions about the project, please reach out to 
 
 Thank you for your interest and support.
 
----
-Last Updated: January 18, 2025
