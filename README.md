@@ -10,7 +10,7 @@
 This work demonstrates a quantum holography approach that leverages spatial correlations of entangled photons to overcome the limitations of small detector areas, enabling high-resolution holographic reconstruction. The code numerically simulates digital holography and iterative phase retrieval, providing a computational framework to model diffraction propagation and phase retrieval, which helps illustrate how complete object information can be reconstructed from partially recorded holograms.
 
 <p align="left">
-<img src="Theory.jpg", width='800'>
+<img src="imgs/Theory.jpg", width='800'>
 </p>
 
 ## Reference
